@@ -1,8 +1,11 @@
 package br.com.igorbag.githubsearch
 
+import androidx.test.ext.junit.runners.AndroidJUnit4
+import androidx.test.platform.app.InstrumentationRegistry
 import org.junit.Test
 
 import org.junit.Assert.*
+import org.junit.runner.RunWith
 
 /**
  * Example local unit test, which will execute on the development machine (host).
